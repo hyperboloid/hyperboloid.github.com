@@ -4,20 +4,22 @@
 @import "code";
 
 body {
-  background-color: $base03;
+  background-color: $base02;
 }
 
 header {
   h1 {
-    color: #B58900;
+    color: $red;
     margin-left: 60px;
     padding-top: 20px;
     padding-left:50px;
   }
-  h4 {
+  h5 {
 
-    width: 445px;
+    width: 400px;
     padding-left:110px;
+    color: $blue;
+    font-weight: 200;
   }
   img {
     position:absolute;
@@ -29,7 +31,7 @@ header {
 
 #main {
 
-  color: $green;
+  color: $base01;
   font-size: 14px;
   padding-left: 25px;
 
@@ -50,7 +52,7 @@ header {
     font-size: 18px;
     margin-top: 25px;
     margin-bottom: 5px;
-    color: $yellow;
+    color: $orange;
   }
 
   #personal {
@@ -143,7 +145,7 @@ article {
   }
 
   h1, & h2, & h3 {
-    color: $yellow;
+    color: #8BAC9C;
   }
 
   h1 { font-size: 24px; }
@@ -196,7 +198,7 @@ article {
 #main nav[role=pagination] {
   a {
     margin-right: 15px;
-    background-color: $violet;
+    background-color: $base0;
     padding: 3px;
 
     &, &:visited, &:hover {
