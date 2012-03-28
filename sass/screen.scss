@@ -11,6 +11,16 @@ header {
   h1 {
     color: #B58900;
     margin-left: 60px;
+    padding-top: 20px;
+    padding-left:50px;
+  }
+  h4 {
+
+    width: 445px;
+    padding-left:110px;
+  }
+  img {
+    position:absolute;
   }
 }
 
@@ -36,6 +46,7 @@ header {
   }
 
   h3 {
+
     font-size: 18px;
     margin-top: 25px;
     margin-bottom: 5px;
@@ -185,7 +196,7 @@ article {
 #main nav[role=pagination] {
   a {
     margin-right: 15px;
-    background-color: $magenta;
+    background-color: $violet;
     padding: 3px;
 
     &, &:visited, &:hover {
