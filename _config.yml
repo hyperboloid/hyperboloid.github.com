@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: 
+url:
 title: Random Apple
-subtitle: If I have seen further it is by standing on ye sholders of Giants.<br>-- Isaac Newton
+subtitle: If I have seen further it is by standing on ye sholders of Giants.<br>&nbsp;&nbsp;&nbsp;&nbsp;Isaac Newton
 author: Michael Wilson
 simple_search: http://google.com/search
 description:
@@ -68,9 +68,9 @@ github_skip_forks: true
 twitter_user: hyperboloid
 twitter_tweet_count: 4
 twitter_show_replies: false
-twitter_follow_button: true
+twitter_follow_button: false
 twitter_show_follower_count: false
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false

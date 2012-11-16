@@ -14,9 +14,8 @@ $violet:          #6c71c4 !default;
 $blue:            #268bd2 !default;
 $cyan:            #2aa198 !default;
 $green:           #859900 !default;
-$black:           #000000 !default;
 
-$solarized: light !default;
+$solarized: dark !default;
 
 @if $solarized == light {
   $base03: #fdf6e3;

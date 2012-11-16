@@ -4,34 +4,22 @@
 @import "code";
 
 body {
-  background-color: $base02;
+  background-color: $base03;
 }
 
 header {
   h1 {
-    color: $red;
+    color: #B58900;
     margin-left: 60px;
-    padding-top: 20px;
-    padding-left:50px;
-  }
-  h5 {
-
-    width: 470px;
-    padding-left:110px;
-    color: $blue;
-    font-weight: 200;
-  }
-  img {
-    position:absolute;
   }
 }
 
-::-moz-selection { text-shadow: none; }
-::selection { text-shadow: none; }
+::-moz-selection { background: $magenta; text-shadow: none; }
+::selection { background: $magenta; text-shadow: none; }
 
 #main {
 
-  color: $base01;
+  color: $green;
   font-size: 14px;
   padding-left: 25px;
 
@@ -48,11 +36,10 @@ header {
   }
 
   h3 {
-
     font-size: 18px;
     margin-top: 25px;
     margin-bottom: 5px;
-    color: $orange;
+    color: $yellow;
   }
 
   #personal {
@@ -87,14 +74,14 @@ header {
   width: 700px;
   margin-left: auto;
   margin-right: auto;
-  font: 16px 'verdana';
+  font: 16px 'Inconsolata';
 
   #post & {
     margin-top: 30px;
   }
 
   strong {
-    font-weight: 700;
+    color: $solar-green;
   }
 
   div.image {
@@ -145,7 +132,7 @@ article {
   }
 
   h1, & h2, & h3 {
-    color: #8BAC9C;
+    color: $yellow;
   }
 
   h1 { font-size: 24px; }
@@ -162,6 +149,7 @@ article {
   }
 
   h4 {
+    color: $solar-red;
     font-size: 14px;
     margin: 0;
     font-weight: normal;
@@ -187,7 +175,7 @@ article {
   .article-read-more time {
     display: block;
     float: left;
-    width: 120px;
+    width: 100px;
     text-align: right;
     margin-right: 10px;
   }
@@ -197,7 +185,7 @@ article {
 #main nav[role=pagination] {
   a {
     margin-right: 15px;
-    background-color: $base0;
+    background-color: $magenta;
     padding: 3px;
 
     &, &:visited, &:hover {
