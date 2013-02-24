@@ -15,9 +15,7 @@ I finally found it.
 
 This blog is hosted at [Github Pages](http://pages.github.com), using the built-in
 support for [Jekyll](https://github.com/mojombo/jekyll/wiki)
-and an added [Octopress](http://octopress.org/) layer. I'm using the [theme](
-https://github.com/ivanjovanovic/ji-octopress-theme) Ivan Jovanovic is using for his
-[blog](http://ivanjovanovic.com/).
+and an added [Octopress](http://octopress.org/) layer.
 
 The hardest part is out of the way, so let me set out the purpose of this blog.
 When I started college, I knew nothing about tech. I didn't know about linux
