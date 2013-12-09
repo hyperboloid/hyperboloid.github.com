@@ -4,7 +4,7 @@
   <title><![CDATA[Random Apple]]></title>
   <link href="http://hyperboloid.github.com/atom.xml" rel="self"/>
   <link href="http://hyperboloid.github.com/"/>
-  <updated>2013-02-24T08:39:44-08:00</updated>
+  <updated>2013-12-08T22:12:00-08:00</updated>
   <id>http://hyperboloid.github.com/</id>
   <author>
     <name><![CDATA[Michael Wilson]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Photographs are a Medium]]></title>
+    <link href="http://hyperboloid.github.com/blog/photographs-are-a-medium/"/>
+    <updated>2013-12-07T19:00:00-08:00</updated>
+    <id>http://hyperboloid.github.com/blog/photographs-are-a-medium</id>
+    <content type="html"><![CDATA[<p>It’s been well over a year since the Instagram acquisition, and yet there is still a strong feeling that entrepreneurs should not be building ‘photo sharing apps’.</p>
+
+<p>But photos are just a medium, like text and video. There is still plenty of room for innovation even in text-based communication.</p>
+
+<p>There is a difference between the medium and its distribution mechanism, and many people conflate the two concepts because they come packaged together. Over time, there are improvements to either the medium or the distribution mechanism, and this is what causes the rise of new communication tools.</p>
+
+<p>For example, Twitter took an existing popular medium (text messages) and combined it with a new distribution mechanism  (public broadcast). Instagram took a newly popular medium (high quality photographs), and created a new distribution mechanism (mobile).</p>
+
+<p>Looking ahead, mobile is where innovation in communication tools is currently taking place. So what sets mobile content creation apart from desktop content? Authenticity and ephemerality.</p>
+
+<p>The internet is full of millions of photographs, but given how far desktop publishing and editing tools have come, it is becoming increasingly rare to see fresh and authentic photographs among all the memes and photoshopped pictures. Authentic photographs can be very powerful. And they are arguably the easiest content to create on mobile. They capture something real and temporary, which is very compelling.</p>
+
+<p>I believe there will be many more types of visual media created in the future, given evolving tools (touch screens) and the importance of language-independent communication in an increasingly international world.</p>
+
+<p>As some final food for thought, here are some examples of innovations in visual interaction that I thought were interesting:</p>
+
+<p><a href="https://itunes.apple.com/us/app/rando/id588683021">Rando</a> is an anonymous photo sharing app. It has a rating system with a slider that turns frowns upside-down, depending on how much you like the photo.</p>
+
+<p><img src="http://hyperboloid.github.com/images/rando.png" title="Rando" alt="Rando" /></p>
+
+<p>Similarly, <a href="https://itunes.apple.com/us/app/knotch/id579744181">Knotch</a> is an opinion sharing app that has a rating system based on colors.</p>
+
+<p><img src="http://hyperboloid.github.com/images/knotch.png" title="Knotch" alt="Knotch" /></p>
+
+<p><a href="http://ciid.dk/education/portfolio/idp11/final-projects/feel-me/">Feel Me</a> is an experimental concept exploring the way two people can connect over the internet by touching the same place on a screen.</p>
+
+<p><img src="http://hyperboloid.github.com/images/feelme.png" title="Feel Me" alt="Feel Me" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Advertising Models]]></title>
